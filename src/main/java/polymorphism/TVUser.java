@@ -15,7 +15,7 @@ public class TVUser {
 		tv.volumeUp();
 		tv.volumeDown();
 		tv.powerOff();
-
+//d
 		// 3. Spring �����̳ʸ� �����Ѵ�.
 		factory.close();
 	}
